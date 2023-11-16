@@ -1,0 +1,8 @@
+.root{
+    ---bg-primary: #1090D8;
+}
+
+.button{
+    background-color: var(---bg-primary);
+}
+
